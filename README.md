@@ -19,3 +19,5 @@ Stories :
 - Story #5 : Create the deck from file
 - Story #6 : Shuffle the deck
 - Story #7 : Test for create new deck
+- Story #8 : Print even and odd numbers
+- Story #9 : Create person struct
