@@ -3,6 +3,8 @@
 
 Package documentation : https://golang.org/
 
+Go Playground : https://play.golang.org/
+
 
 Command to run the program : `go run main.go deck.go`
 
