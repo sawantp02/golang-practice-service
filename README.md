@@ -26,3 +26,4 @@ Stories :
 - Story #10 : Struct with pointers
 - Story #11 : Maps
 - Story #12 : Bot with interfaces
+- Story #13 : HTTP request to google.com
