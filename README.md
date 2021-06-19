@@ -32,3 +32,4 @@ Stories :
 - Story #16 : Website status checker
 - Story #17 : Go routine to check website status
 - Story #18 : Repeating routines in website status checker
+- Story #19 : Sleeping routine with function literals
