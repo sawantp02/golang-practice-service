@@ -27,4 +27,5 @@ Stories :
 - Story #11 : Maps
 - Story #12 : Bot with interfaces
 - Story #13 : HTTP request to google.com
-- Story #14 : Triangle and Sqaure area implementation
+- Story #14 : Triangle and Square area implementation
+- Story #15 : Read a file and print to console [`go run main.go myFile.txt`]
