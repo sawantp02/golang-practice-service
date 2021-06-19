@@ -29,3 +29,4 @@ Stories :
 - Story #13 : HTTP request to google.com
 - Story #14 : Triangle and Square area implementation
 - Story #15 : Read a file and print to console [`go run main.go myFile.txt`]
+- Story #16 : Website status checker
