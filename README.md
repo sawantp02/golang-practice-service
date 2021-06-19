@@ -31,3 +31,4 @@ Stories :
 - Story #15 : Read a file and print to console [`go run main.go myFile.txt`]
 - Story #16 : Website status checker
 - Story #17 : Go routine to check website status
+- Story #18 : Repeating routines in website status checker
